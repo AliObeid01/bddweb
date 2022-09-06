@@ -50,7 +50,7 @@ img {
 }
 
 .hero {
-  background: url("./images/hero.JPG");
+  background: url("../images/hero.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
